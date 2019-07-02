@@ -109,3 +109,10 @@ body {
 .section {
     padding: 10px 10%;
 }
+
+.r-header {
+    display: inline-block;
+    background-color: #green;
+    font-size: 18px;
+    column-width: 
+}

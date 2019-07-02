@@ -1,0 +1,100 @@
+body {
+	line-height: 1.5;
+font-family: Tahoma, sans-serif;
+}
+
+.bold {
+
+	display: inline-block;
+
+	width: 300px;
+	height: 60px;
+	background-color: orange;
+}
+.header {
+margin-top: 60px;
+	display: inline-block;
+	text-align: center;
+
+	width: 600px;
+	height: 60px;
+	background-color: green;
+	font-weight: 900;
+ font-size: 26px;	
+color: white;
+
+
+}
+.header-fio {
+	margin: auto; 
+	display: inline-block;
+	text-align: center;
+
+	width: 600px;
+	height: 60px;
+	background-color: green;
+	font-weight: 900;
+ font-size: 26px;	
+ color: black;
+
+}
+
+.bold	{
+	display: inline-block;
+	width: 600px;
+	height: 60px;
+	background-color: green;
+	text-align: center;
+	font-weight: 900;
+
+}
+
+.ll {
+	display: inline-block;
+	width: 600px;
+	/* height: 100px; */
+	text-align: center;
+font-size: 12px;
+font-weight: 900;
+color: #74829E
+
+}
+
+.r-header {
+	display: inline-block;
+	width: 600px;
+	/* height: 40px; */
+	text-align: center;
+	font-size: 16px;
+font-weight: 900;
+}
+
+.lesson {
+	display: inline-block;
+margin-top: 20px;
+margin-left: 650px;
+text-align: left;
+	width: 300px;
+	height: 600px;
+	/* background-color: green; */
+	font-size: 14px;
+	color: #74829E
+}
+a {
+	color: #6AB8DF
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
