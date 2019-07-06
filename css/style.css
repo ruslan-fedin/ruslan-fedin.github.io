@@ -61,7 +61,7 @@ color: #74829E
 
 .r-header {
 	display: inline-block;
-	width: 600px;
+	width: 700px;
 	/* height: 40px; */
 	text-align: center;
 	font-size: 16px;
@@ -71,9 +71,9 @@ font-weight: 900;
 .lesson {
 	display: inline-block;
 margin-top: 20px;
-margin-left: 700px;
+margin-left: 800px;
 text-align: left;
-	width: 300px;
+	width: 600px;
 	height: 600px;
 	/* background-color: green; */
 	font-size: 14px;
