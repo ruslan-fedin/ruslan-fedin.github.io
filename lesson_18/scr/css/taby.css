@@ -1,0 +1,138 @@
+.bg {
+				margin: 0 auto;
+				margin-top: 5%;
+    background: url(../img/bg.png) center no-repeat;
+  
+ width: 80rem;
+ height: 50rem;
+}
+.bg-rm {
+	margin-top: 50px;
+}
+/* синяя рамка */
+.rm	{
+	display: inline-block;
+	margin: 0 auto;
+	margin-left: 10%;
+	margin-top: 5%;
+	background: url(../img/rm.png) center no-repeat;
+	width: 63rem;
+ height: 42rem;
+
+
+}
+
+/* цвет контент */
+input {	
+	position: relative;
+top: 71px;
+padding-left: 150px;
+color: white;
+font-weight: 400;
+font-size:  20px;
+
+	margin-left: 10%;	
+	width: 482px;
+  height: 61px;
+  box-shadow: inset 1.5px 2.6px 3px 0 #00000080;
+  background-image: url('../img/bg.png')
+ 
+}
+
+
+/*окно ввода  */
+    .main-form-input {
+		position: relative;
+		width: 580px;
+		height: 362px;
+		border: solid 1px #7dd7f4;
+		background-color: #000000;
+		left: 26px;
+		top: -60px;
+
+}					
+
+.nav-tabs{
+	color: white;
+}
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover {
+	    position: relative;
+    /* color: #ffffff; */
+    cursor: default;
+    background-color: #03a5db;
+    border: 0px solid #ddd;
+    left: 29px;
+    font-size: 17px;
+    top: -7px;
+    margin: 0px;
+    padding: 0px;
+    border: 14px;
+    width: 101px;
+    text-align: center;
+    /* margin-top: 8px; */
+}   
+
+
+/* подпись лабл */
+			label{
+		position: relative;
+		top: 30px;
+		left: 70px;
+  width: 128px;
+  height: 22px;
+  font-family: MyriadPro;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.92;
+  letter-spacing: normal;
+  color: #ffffff;
+
+ }
+
+
+				.parol {
+		position: relative;
+		top: 59px;
+		left: 67px;
+  width: 134px;
+  height: 22px;
+  font-family: MyriadPro;
+  font-size: 15px;
+  font-weight: 900;
+  line-height: 1.4;
+  color: #c51f03;
+				
+}
+button {
+	position: relative;
+	top: 50px;
+	left: 480px;
+	width: 131px;
+  box-shadow: 0 0 8px 0 #000000;
+  background-color: #000000;
+  height: 44px;
+	 background-image: radial-gradient(circle at 0 50%, #cf2303, #7f0501);
+	 color: white;
+}
+
+     .reg {
+   	left: 11%;
+   }
+.tab-content {
+	margin-top: 65px;
+	color:red;
+}
+
+.chek{
+	position: relative;
+	top:90px;
+	left: 67px;
+	color: white; 
+	font-size: 20px;
+}
+
+
