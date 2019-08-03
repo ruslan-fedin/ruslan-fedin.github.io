@@ -1,0 +1,183 @@
+@media (min-width: 320px) and (max-width: 576px) {
+	#wrap #header {
+  min-width: 100%;
+  height: auto;
+}
+
+	#wrap #header .header {
+		width: 100%;
+		height: auto;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.header .logo {
+  float: none;
+  width: 30%;
+  margin: 0 auto;
+  position: static;
+}
+
+.header .logo img {
+	display: block;
+	width: 100%;
+}
+
+.header .price {
+  width: 70%;
+  height: auto;
+  margin: 15px auto 20px;
+  font-size: 30px;
+  position: static;
+  left: 0;
+  text-align: center;
+}
+.header .price span {
+  font-size: 40px;
+  font-weight: normal;
+  text-shadow: 1px 2px 0 #fff;
+}
+.header .tel_box {
+  font-size: 22px;
+  width: 30%;
+  margin: 0 auto;
+  float: none;
+  padding: 0;
+  text-align: center;
+}
+
+.header .tel_box .tel {
+  font-size: 35px;
+}
+
+.callback_button {
+  width: 85%;
+  height: 54px;
+  overflow: hidden;
+  line-height: 50px;
+  text-decoration: none !important;
+  color: #fff;
+  font-size: 32px;
+  text-shadow: 1px 1px 0 #000;
+  border: none;
+  text-align: center;
+  background: url(../img/bg_fish.png) 0 0 no-repeat / cover;
+}
+
+#wrap .box_offer h1 {
+  font-size: 50px;
+}
+
+#wrap .box_offer .text {
+  font-size: 35px;
+  letter-spacing: .5px;
+  line-height: 1.3;
+  font-weight: bold;
+}
+
+#wrap .box_benefits ul.benefits li {
+  display: block;
+  width: 65%;
+  margin: 15px auto 0;
+  text-align: center;
+}
+
+#wrap .box_benefits ul.benefits li .ico {
+  display: block;
+  width: 150px;
+}
+
+#wrap .box_benefits ul.benefits li h2 {
+  font-size: 48px;
+  line-height: 2.5;
+}
+
+#wrap .box_benefits ul.benefits li p {
+  font-size: 32px;
+  line-height: 1.5;
+}
+
+body .title_box2 {
+  clear: both;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+body .title_box2 > span {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  vertical-align: middle;
+  position: relative;
+  padding: 25px 25px;
+  line-height: 1;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-family: 'rex_bold_bold';
+}
+
+body .title_box2 > span span {
+  font-size: 30px;
+  font-family: 'rex_bold_bold';
+}
+
+body .title_box2 > span .left,
+body .title_box2 > span .right {
+  top: 32%;
+}
+
+.cnt_box {
+  min-width: 100%;
+  overflow: visible;
+}
+
+#wrap .box_opin .opin li {
+  display: block;
+  zoom: 2;
+  width: 90%;
+  margin: 0 auto;
+}
+
+#wrap .box_sert ul.sert li {
+  display: block;
+  zoom: 1;
+  vertical-align: top;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: transparent;
+  margin: 0;
+
+}
+
+#wrap .box_sert ul.sert li a {
+	display: block;
+	margin: 0 auto;  
+	width: 70%;
+  height: auto;
+}
+
+#wrap .box_order .online_form input[type="text"] {
+  display: block;
+  zoom: 1;
+  width: 90%;
+  height: 48px;
+  line-height: 48px;
+  font-size: 18px;
+  margin: 0 auto 15px;
+}
+
+#wrap .box_order .online_form input[type="submit"],
+#wrap .box_order .online_form button {
+  display: block;
+  zoom: 1;
+  width: 90%;
+  height: 50px;
+  font-size: 25px;
+  line-height: 50px;
+  margin: 0 auto; 
+}
+
+}
